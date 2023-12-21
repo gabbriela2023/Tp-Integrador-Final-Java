@@ -1,0 +1,7 @@
+com\tickets\tickets\JAXRSConfiguration.class
+FrontController\Ticket.class
+FrontController\FrontController.class
+com\tickets\tickets\resources\JavaEE8Resource.class
+FrontController\Conexion.class
+FrontController\Prepared.class
+FrontController\TicketDAO.class
